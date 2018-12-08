@@ -1,0 +1,10 @@
+title = "Steel Diver: Sub Wars"
+description = "Steel Diver: Sub Wars is a first free-to-play game based on Steel Diver series. This first-person game features an online multiplayer mode and two levels of the single player campaign. The game also offers additional features and missions exclusive to the paid version."
+needs_system_files = true
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "00040000000D7D00"
+region = "usa"
+release_date = "2014-02-13"
